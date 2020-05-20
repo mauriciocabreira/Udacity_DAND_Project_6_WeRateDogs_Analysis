@@ -1,1 +1,2 @@
-# Udacity_DAND_Project_6_WeRateDogs_Analysis
+# DataAnalyticsUdacityProject4TwitterRateDogs
+ Project #4 of Udacity Data Analyst formation 
